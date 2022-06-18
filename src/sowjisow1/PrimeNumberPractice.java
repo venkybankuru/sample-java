@@ -6,7 +6,7 @@ public class PrimeNumberPractice {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("enter any number");
+		System.out.println("enter any numberr");
 		int num =sc.nextInt();
 		/*int count = 0;
 		if(num>1)
